@@ -1,0 +1,8 @@
+E:\Desktop\HowToFishTrainer\bin\Release\HowToFishTrainer.deps.json
+E:\Desktop\HowToFishTrainer\bin\Release\HowToFishTrainer.dll
+E:\Desktop\HowToFishTrainer\bin\Release\HowToFishTrainer.pdb
+E:\Desktop\HowToFishTrainer\obj\Release\HowToFishTrainer.csproj.AssemblyReference.cache
+E:\Desktop\HowToFishTrainer\obj\Release\HowToFishTrainer.GeneratedMSBuildEditorConfig.editorconfig
+E:\Desktop\HowToFishTrainer\obj\Release\HowToFishTrainer.csproj.CoreCompileInputs.cache
+E:\Desktop\HowToFishTrainer\obj\Release\HowToFishTrainer.dll
+E:\Desktop\HowToFishTrainer\obj\Release\HowToFishTrainer.pdb
